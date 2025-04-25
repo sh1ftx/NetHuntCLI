@@ -1,4 +1,11 @@
-# NetHunterCLI
+ _______          __     ___ ___               __                _________ .____    .___ 
+ \      \   _____/  |_  /   |   \ __ __  _____/  |_  ___________ \_   ___ \|    |   |   |
+ /   |   \_/ __ \   __\/    ~    \  |  \/    \   __\/ __ \_  __ \/    \  \/|    |   |   |
+/    |    \  ___/|  |  \    Y    /  |  /   |  \  | \  ___/|  | \/\     \___|    |___|   |
+\____|__  /\___  >__|   \___|_  /|____/|___|  /__|  \___  >__|    \______  /_______ \___|
+        \/     \/             \/            \/          \/               \/        \/    
+
+---
 
 DevBook CLI é uma aplicação de linha de comando (CLI) desenvolvida em Go, que permite buscar informações sobre IPs e servidores na internet. Este projeto foi criado para ser simples, eficiente e útil para desenvolvedores e administradores de sistemas.
 
